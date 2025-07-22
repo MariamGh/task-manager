@@ -98,6 +98,3 @@ The server will run on the port specified in your `.env` or default to 3000.
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](LICENSE) 
